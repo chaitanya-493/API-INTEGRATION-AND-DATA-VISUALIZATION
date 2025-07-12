@@ -1,10 +1,10 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
-* COMPANY* : CODTECH IT SOLUTIONS
-* NAME* : KOLUSU CHAITANYA VARMA
-* INTERN ID* : CT08DF1081
-* DOMAIN* : PYTHON PROGRAMMING
-* DURATION* : 8 WEEKS
-* MENTOR* : NEELA SANTHOSH
+*COMPANY* : CODTECH IT SOLUTIONS
+*NAME* : KOLUSU CHAITANYA VARMA
+*INTERN ID* : CT08DF1081
+*DOMAIN* : PYTHON PROGRAMMING
+*DURATION* : 8 WEEKS
+*MENTOR* : NEELA SANTHOSH
 
 **DESCRIPTION:
 In this project, I created a simple yet effective weather forecasting visualization tool using Python. The main goal was to fetch and display the temperature forecast of a particular city, which I chose as Vijayawada, using the OpenWeatherMap API. The task was entirely implemented in PyCharm.
